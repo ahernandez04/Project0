@@ -1,1 +1,2 @@
 I want to go home.
+I just made my first git commit.
